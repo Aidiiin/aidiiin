@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Aidiiin/aidiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aidin, a Software Engineer with 8+ years of experience.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨Available for hire✨ 
+- 👨‍💻 My tech stack is:
+    - 🚀JavaScript, TypeScript, Go, Scala    
+    - 🪄React, tailwindcss, Gatsby, Next.js
+    - 💾Postgresql, Redis, MongoDB, Elasticsearch
+    - ⛓️Ethereum, Solidity
+    - 🌩️AWS
+- 🔭 I’m currently working on [sql-puzzle](https://github.com/Aidiiin/sql-puzzle) and [Symboleo](https://smart-contract-modelling-uottawa.github.io/Symboleo-IDE/)
+- ⚡ Fun fact: I wrote a Sudoko AI with pure HTML and CSS.
